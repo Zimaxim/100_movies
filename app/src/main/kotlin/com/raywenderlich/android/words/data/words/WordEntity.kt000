@@ -1,0 +1,35 @@
+package com.raywenderlich.android.words.data.words
+
+import androidx.room.ColumnInfo
+import androidx.room.Entity
+import androidx.room.PrimaryKey
+
+@Entity(tableName = AppDatabase.WORD_TABLE)
+data class WordEntity(
+
+//    @PrimaryKey(autoGenerate = true)
+
+    @PrimaryKey
+
+    @ColumnInfo(name = COLUMN_ID)
+    var id: String = "",
+
+    @ColumnInfo(name = COLUMN_TITLE)
+    var title: String = "",
+
+    @ColumnInfo(name = COLUMN_FULLTITLE)
+    var full_title: String = "",
+
+//    @ColumnInfo( value = COLUMN_VALUE)
+//    val value: String? = "",
+
+
+    ) {
+
+    companion object {
+        const val COLUMN_VALUE = "value"
+        const val COLUMN_ID = "id"
+        const val COLUMN_TITLE = "title"
+        const val COLUMN_FULLTITLE = "full_title"
+    }
+}
