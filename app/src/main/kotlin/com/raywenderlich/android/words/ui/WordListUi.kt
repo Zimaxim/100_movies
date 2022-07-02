@@ -164,9 +164,9 @@ private fun WordColumnItem(
         Text(
             modifier = Modifier.padding(16.dp),           // 3
             text =  word.note?: " " ,
-            fontSize = 10.sp,
+            fontSize = 13.sp,
             fontStyle = FontStyle.Italic,
-            color = Color.LightGray
+            color = Color.Cyan
         )
 
     }

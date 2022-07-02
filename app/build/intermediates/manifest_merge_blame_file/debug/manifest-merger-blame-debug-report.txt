@@ -39,115 +39,115 @@
 39
 40    <uses-sdk
 41        android:minSdkVersion="24"
-41-->C:\android\projects\MyTest2\app\src\main\AndroidManifest.xml
+41-->C:\Users\maksim.zimin\StudioProjects\100_movies\app\src\main\AndroidManifest.xml
 42        android:targetSdkVersion="30" />
-42-->C:\android\projects\MyTest2\app\src\main\AndroidManifest.xml
+42-->C:\Users\maksim.zimin\StudioProjects\100_movies\app\src\main\AndroidManifest.xml
 43
 44    <uses-permission android:name="android.permission.INTERNET" />
-44-->C:\android\projects\MyTest2\app\src\main\AndroidManifest.xml:39:3-65
-44-->C:\android\projects\MyTest2\app\src\main\AndroidManifest.xml:39:20-62
+44-->C:\Users\maksim.zimin\StudioProjects\100_movies\app\src\main\AndroidManifest.xml:39:3-65
+44-->C:\Users\maksim.zimin\StudioProjects\100_movies\app\src\main\AndroidManifest.xml:39:20-62
 45
 46    <application
-46-->C:\android\projects\MyTest2\app\src\main\AndroidManifest.xml:41:3-59:17
+46-->C:\Users\maksim.zimin\StudioProjects\100_movies\app\src\main\AndroidManifest.xml:41:3-59:17
 47        android:name="com.raywenderlich.android.words.WordsApp"
-47-->C:\android\projects\MyTest2\app\src\main\AndroidManifest.xml:42:5-29
+47-->C:\Users\maksim.zimin\StudioProjects\100_movies\app\src\main\AndroidManifest.xml:42:5-29
 48        android:allowBackup="false"
-48-->C:\android\projects\MyTest2\app\src\main\AndroidManifest.xml:43:5-32
+48-->C:\Users\maksim.zimin\StudioProjects\100_movies\app\src\main\AndroidManifest.xml:43:5-32
 49        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-49-->[androidx.core:core:1.7.0-alpha01] C:\Users\Максим\.gradle\caches\transforms-3\4371c5eed71dc381c4163c5e2c9f5cce\transformed\core-1.7.0-alpha01\AndroidManifest.xml:24:18-86
+49-->[androidx.core:core:1.7.0-alpha01] C:\Users\maksim.zimin\.gradle\caches\transforms-3\a75e51ace2e65eddf30d433aeef0f520\transformed\core-1.7.0-alpha01\AndroidManifest.xml:24:18-86
 50        android:debuggable="true"
 51        android:extractNativeLibs="false"
 52        android:icon="@mipmap/ic_launcher"
-52-->C:\android\projects\MyTest2\app\src\main\AndroidManifest.xml:44:5-39
+52-->C:\Users\maksim.zimin\StudioProjects\100_movies\app\src\main\AndroidManifest.xml:44:5-39
 53        android:label="@string/app_name"
-53-->C:\android\projects\MyTest2\app\src\main\AndroidManifest.xml:45:5-37
+53-->C:\Users\maksim.zimin\StudioProjects\100_movies\app\src\main\AndroidManifest.xml:45:5-37
 54        android:supportsRtl="true"
-54-->C:\android\projects\MyTest2\app\src\main\AndroidManifest.xml:46:5-31
+54-->C:\Users\maksim.zimin\StudioProjects\100_movies\app\src\main\AndroidManifest.xml:46:5-31
 55        android:testOnly="true"
 56        android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" >
-56-->C:\android\projects\MyTest2\app\src\main\AndroidManifest.xml:47:5-64
+56-->C:\Users\maksim.zimin\StudioProjects\100_movies\app\src\main\AndroidManifest.xml:47:5-64
 57        <activity
-57-->C:\android\projects\MyTest2\app\src\main\AndroidManifest.xml:48:5-58:16
+57-->C:\Users\maksim.zimin\StudioProjects\100_movies\app\src\main\AndroidManifest.xml:48:5-58:16
 58            android:name="com.raywenderlich.android.words.MainActivity"
-58-->C:\android\projects\MyTest2\app\src\main\AndroidManifest.xml:49:7-34
+58-->C:\Users\maksim.zimin\StudioProjects\100_movies\app\src\main\AndroidManifest.xml:49:7-34
 59            android:exported="true"
-59-->C:\android\projects\MyTest2\app\src\main\AndroidManifest.xml:50:7-30
+59-->C:\Users\maksim.zimin\StudioProjects\100_movies\app\src\main\AndroidManifest.xml:50:7-30
 60            android:label="@string/app_name"
-60-->C:\android\projects\MyTest2\app\src\main\AndroidManifest.xml:51:7-39
+60-->C:\Users\maksim.zimin\StudioProjects\100_movies\app\src\main\AndroidManifest.xml:51:7-39
 61            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" >
-61-->C:\android\projects\MyTest2\app\src\main\AndroidManifest.xml:52:7-66
+61-->C:\Users\maksim.zimin\StudioProjects\100_movies\app\src\main\AndroidManifest.xml:52:7-66
 62            <intent-filter>
-62-->C:\android\projects\MyTest2\app\src\main\AndroidManifest.xml:53:7-57:23
+62-->C:\Users\maksim.zimin\StudioProjects\100_movies\app\src\main\AndroidManifest.xml:53:7-57:23
 63                <action android:name="android.intent.action.MAIN" />
-63-->C:\android\projects\MyTest2\app\src\main\AndroidManifest.xml:54:9-61
-63-->C:\android\projects\MyTest2\app\src\main\AndroidManifest.xml:54:17-58
+63-->C:\Users\maksim.zimin\StudioProjects\100_movies\app\src\main\AndroidManifest.xml:54:9-61
+63-->C:\Users\maksim.zimin\StudioProjects\100_movies\app\src\main\AndroidManifest.xml:54:17-58
 64
 65                <category android:name="android.intent.category.LAUNCHER" />
-65-->C:\android\projects\MyTest2\app\src\main\AndroidManifest.xml:56:9-69
-65-->C:\android\projects\MyTest2\app\src\main\AndroidManifest.xml:56:19-66
+65-->C:\Users\maksim.zimin\StudioProjects\100_movies\app\src\main\AndroidManifest.xml:56:9-69
+65-->C:\Users\maksim.zimin\StudioProjects\100_movies\app\src\main\AndroidManifest.xml:56:19-66
 66            </intent-filter>
 67        </activity>
 68        <activity
-68-->[androidx.compose.ui:ui-tooling:1.0.1] C:\Users\Максим\.gradle\caches\transforms-3\dd9f22be2e8b59e77c1cecba5d3e403d\transformed\ui-tooling-1.0.1\AndroidManifest.xml:25:9-27:39
+68-->[androidx.compose.ui:ui-tooling:1.0.1] C:\Users\maksim.zimin\.gradle\caches\transforms-3\b818728848a9a1676ef34e66be37d4a3\transformed\ui-tooling-1.0.1\AndroidManifest.xml:25:9-27:39
 69            android:name="androidx.compose.ui.tooling.PreviewActivity"
-69-->[androidx.compose.ui:ui-tooling:1.0.1] C:\Users\Максим\.gradle\caches\transforms-3\dd9f22be2e8b59e77c1cecba5d3e403d\transformed\ui-tooling-1.0.1\AndroidManifest.xml:26:13-71
+69-->[androidx.compose.ui:ui-tooling:1.0.1] C:\Users\maksim.zimin\.gradle\caches\transforms-3\b818728848a9a1676ef34e66be37d4a3\transformed\ui-tooling-1.0.1\AndroidManifest.xml:26:13-71
 70            android:exported="true" />
-70-->[androidx.compose.ui:ui-tooling:1.0.1] C:\Users\Максим\.gradle\caches\transforms-3\dd9f22be2e8b59e77c1cecba5d3e403d\transformed\ui-tooling-1.0.1\AndroidManifest.xml:27:13-36
+70-->[androidx.compose.ui:ui-tooling:1.0.1] C:\Users\maksim.zimin\.gradle\caches\transforms-3\b818728848a9a1676ef34e66be37d4a3\transformed\ui-tooling-1.0.1\AndroidManifest.xml:27:13-36
 71
 72        <service
-72-->[androidx.room:room-runtime:2.4.0-alpha04] C:\Users\Максим\.gradle\caches\transforms-3\6a84997e0609c6c059883ab4e37e559c\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:25:9-28:40
+72-->[androidx.room:room-runtime:2.4.0-alpha04] C:\Users\maksim.zimin\.gradle\caches\transforms-3\8e34e7c7906774de6bd14fa3f0569659\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:25:9-28:40
 73            android:name="androidx.room.MultiInstanceInvalidationService"
-73-->[androidx.room:room-runtime:2.4.0-alpha04] C:\Users\Максим\.gradle\caches\transforms-3\6a84997e0609c6c059883ab4e37e559c\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:26:13-74
+73-->[androidx.room:room-runtime:2.4.0-alpha04] C:\Users\maksim.zimin\.gradle\caches\transforms-3\8e34e7c7906774de6bd14fa3f0569659\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:26:13-74
 74            android:directBootAware="true"
-74-->[androidx.room:room-runtime:2.4.0-alpha04] C:\Users\Максим\.gradle\caches\transforms-3\6a84997e0609c6c059883ab4e37e559c\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:27:13-43
+74-->[androidx.room:room-runtime:2.4.0-alpha04] C:\Users\maksim.zimin\.gradle\caches\transforms-3\8e34e7c7906774de6bd14fa3f0569659\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:27:13-43
 75            android:exported="false" />
-75-->[androidx.room:room-runtime:2.4.0-alpha04] C:\Users\Максим\.gradle\caches\transforms-3\6a84997e0609c6c059883ab4e37e559c\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:28:13-37
+75-->[androidx.room:room-runtime:2.4.0-alpha04] C:\Users\maksim.zimin\.gradle\caches\transforms-3\8e34e7c7906774de6bd14fa3f0569659\transformed\room-runtime-2.4.0-alpha04\AndroidManifest.xml:28:13-37
 76
 77        <provider
-77-->[androidx.emoji2:emoji2:1.0.0-alpha03] C:\Users\Максим\.gradle\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:26:9-34:20
+77-->[androidx.emoji2:emoji2:1.0.0-alpha03] C:\Users\maksim.zimin\.gradle\caches\transforms-3\c98a6e710dc3b376215a26e849ea0cdb\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:26:9-34:20
 78            android:name="androidx.startup.InitializationProvider"
-78-->[androidx.emoji2:emoji2:1.0.0-alpha03] C:\Users\Максим\.gradle\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:27:13-67
+78-->[androidx.emoji2:emoji2:1.0.0-alpha03] C:\Users\maksim.zimin\.gradle\caches\transforms-3\c98a6e710dc3b376215a26e849ea0cdb\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:27:13-67
 79            android:authorities="com.raywenderlich.android.words.androidx-startup"
-79-->[androidx.emoji2:emoji2:1.0.0-alpha03] C:\Users\Максим\.gradle\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:28:13-68
+79-->[androidx.emoji2:emoji2:1.0.0-alpha03] C:\Users\maksim.zimin\.gradle\caches\transforms-3\c98a6e710dc3b376215a26e849ea0cdb\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:28:13-68
 80            android:exported="false" >
-80-->[androidx.emoji2:emoji2:1.0.0-alpha03] C:\Users\Максим\.gradle\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:29:13-37
+80-->[androidx.emoji2:emoji2:1.0.0-alpha03] C:\Users\maksim.zimin\.gradle\caches\transforms-3\c98a6e710dc3b376215a26e849ea0cdb\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:29:13-37
 81            <meta-data
-81-->[androidx.emoji2:emoji2:1.0.0-alpha03] C:\Users\Максим\.gradle\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:31:13-33:52
+81-->[androidx.emoji2:emoji2:1.0.0-alpha03] C:\Users\maksim.zimin\.gradle\caches\transforms-3\c98a6e710dc3b376215a26e849ea0cdb\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:31:13-33:52
 82                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-82-->[androidx.emoji2:emoji2:1.0.0-alpha03] C:\Users\Максим\.gradle\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:32:17-75
+82-->[androidx.emoji2:emoji2:1.0.0-alpha03] C:\Users\maksim.zimin\.gradle\caches\transforms-3\c98a6e710dc3b376215a26e849ea0cdb\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:32:17-75
 83                android:value="androidx.startup" />
-83-->[androidx.emoji2:emoji2:1.0.0-alpha03] C:\Users\Максим\.gradle\caches\transforms-3\ddece3dd8305a76f1eb6ac2eb8a5e755\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:33:17-49
+83-->[androidx.emoji2:emoji2:1.0.0-alpha03] C:\Users\maksim.zimin\.gradle\caches\transforms-3\c98a6e710dc3b376215a26e849ea0cdb\transformed\emoji2-1.0.0-alpha03\AndroidManifest.xml:33:17-49
 84            <meta-data
-84-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\Максим\.gradle\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:31:13-33:52
+84-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\maksim.zimin\.gradle\caches\transforms-3\0718de5f3dfb8b3c6f29e2ea9f18a7ab\transformed\profileinstaller-1.0.1\AndroidManifest.xml:31:13-33:52
 85                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-85-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\Максим\.gradle\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:32:17-85
+85-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\maksim.zimin\.gradle\caches\transforms-3\0718de5f3dfb8b3c6f29e2ea9f18a7ab\transformed\profileinstaller-1.0.1\AndroidManifest.xml:32:17-85
 86                android:value="androidx.startup" />
-86-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\Максим\.gradle\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:33:17-49
+86-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\maksim.zimin\.gradle\caches\transforms-3\0718de5f3dfb8b3c6f29e2ea9f18a7ab\transformed\profileinstaller-1.0.1\AndroidManifest.xml:33:17-49
 87            <meta-data
-87-->[androidx.lifecycle:lifecycle-process:2.4.0-alpha02] C:\Users\Максим\.gradle\caches\transforms-3\a41eb5c0cd622a3de41ff0a54a607c85\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:31:13-33:52
+87-->[androidx.lifecycle:lifecycle-process:2.4.0-alpha02] C:\Users\maksim.zimin\.gradle\caches\transforms-3\8a4ccbdb1a2af5407757cef34633a4a9\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:31:13-33:52
 88                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-88-->[androidx.lifecycle:lifecycle-process:2.4.0-alpha02] C:\Users\Максим\.gradle\caches\transforms-3\a41eb5c0cd622a3de41ff0a54a607c85\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:32:17-78
+88-->[androidx.lifecycle:lifecycle-process:2.4.0-alpha02] C:\Users\maksim.zimin\.gradle\caches\transforms-3\8a4ccbdb1a2af5407757cef34633a4a9\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:32:17-78
 89                android:value="androidx.startup" />
-89-->[androidx.lifecycle:lifecycle-process:2.4.0-alpha02] C:\Users\Максим\.gradle\caches\transforms-3\a41eb5c0cd622a3de41ff0a54a607c85\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:33:17-49
+89-->[androidx.lifecycle:lifecycle-process:2.4.0-alpha02] C:\Users\maksim.zimin\.gradle\caches\transforms-3\8a4ccbdb1a2af5407757cef34633a4a9\transformed\lifecycle-process-2.4.0-alpha02\AndroidManifest.xml:33:17-49
 90        </provider>
 91
 92        <receiver
-92-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\Максим\.gradle\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:36:9-45:20
+92-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\maksim.zimin\.gradle\caches\transforms-3\0718de5f3dfb8b3c6f29e2ea9f18a7ab\transformed\profileinstaller-1.0.1\AndroidManifest.xml:36:9-45:20
 93            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-93-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\Максим\.gradle\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:37:13-76
+93-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\maksim.zimin\.gradle\caches\transforms-3\0718de5f3dfb8b3c6f29e2ea9f18a7ab\transformed\profileinstaller-1.0.1\AndroidManifest.xml:37:13-76
 94            android:directBootAware="false"
-94-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\Максим\.gradle\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:38:13-44
+94-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\maksim.zimin\.gradle\caches\transforms-3\0718de5f3dfb8b3c6f29e2ea9f18a7ab\transformed\profileinstaller-1.0.1\AndroidManifest.xml:38:13-44
 95            android:enabled="true"
-95-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\Максим\.gradle\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:39:13-35
+95-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\maksim.zimin\.gradle\caches\transforms-3\0718de5f3dfb8b3c6f29e2ea9f18a7ab\transformed\profileinstaller-1.0.1\AndroidManifest.xml:39:13-35
 96            android:exported="true"
-96-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\Максим\.gradle\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:40:13-36
+96-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\maksim.zimin\.gradle\caches\transforms-3\0718de5f3dfb8b3c6f29e2ea9f18a7ab\transformed\profileinstaller-1.0.1\AndroidManifest.xml:40:13-36
 97            android:permission="android.permission.DUMP" >
-97-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\Максим\.gradle\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:41:13-57
+97-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\maksim.zimin\.gradle\caches\transforms-3\0718de5f3dfb8b3c6f29e2ea9f18a7ab\transformed\profileinstaller-1.0.1\AndroidManifest.xml:41:13-57
 98            <intent-filter>
-98-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\Максим\.gradle\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:42:13-44:29
+98-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\maksim.zimin\.gradle\caches\transforms-3\0718de5f3dfb8b3c6f29e2ea9f18a7ab\transformed\profileinstaller-1.0.1\AndroidManifest.xml:42:13-44:29
 99                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-99-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\Максим\.gradle\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:43:17-91
-99-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\Максим\.gradle\caches\transforms-3\01c9b37f290c5ef5be678c5d1dd0ec3d\transformed\profileinstaller-1.0.1\AndroidManifest.xml:43:25-88
+99-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\maksim.zimin\.gradle\caches\transforms-3\0718de5f3dfb8b3c6f29e2ea9f18a7ab\transformed\profileinstaller-1.0.1\AndroidManifest.xml:43:17-91
+99-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\maksim.zimin\.gradle\caches\transforms-3\0718de5f3dfb8b3c6f29e2ea9f18a7ab\transformed\profileinstaller-1.0.1\AndroidManifest.xml:43:25-88
 100            </intent-filter>
 101        </receiver>
 102    </application>
